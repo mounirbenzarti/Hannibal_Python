@@ -14,7 +14,7 @@ st.set_page_config(
 # Les étapes clés de son voyage
 steps = [
     {
-        "titre": "Le Départ : Carthagène (Qart Hadasht)",
+        "titre": "Le Départ : Carthagène",
         "date": "218 av. J.-C.",
         "lieu": "Carthagène, Espagne",
         "coords": [37.6, -0.98],
