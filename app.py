@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 
 # Configuration de la page
 st.set_page_config(
-    page_title="L'Odyssée d'Hannibal Barca",
+    page_title="L'Odyssée d'Hannibal",
     page_icon="🐘",
     layout="wide"
 )
